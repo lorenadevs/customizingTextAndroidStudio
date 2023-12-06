@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSwitch" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:textOn">@color/colorOn</item>
+        <item name="android:textOff">@color/colorOff</item>
+        <item name="android:fontFamily">@font/milku</item>
+    </style>
+
+</resources>

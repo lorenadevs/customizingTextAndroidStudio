@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">APPu1a3_Lorena</string>
+    <string name="samplePhrase">Programming is a way\nof</string>
+    <string name="rdBColor1">Green</string>
+    <string name="rdBColor2">Pink</string>
+    <string name="rdBColor3">Red</string>
+    <string name="rdBColor4">Cyan</string>
+    <string name="rdBSize1">30 sp</string>
+    <string name="rdBSize2">34 sp</string>
+    <string name="rdBSize3">38 sp</string>
+    <string name="rdBSize4">44 sp</string>
+    <string name="chBStyle1">Bold</string>
+    <string name="chBStyle2">Italic</string>
+    <string name="txVRealTime">Display on real time?</string>
+    <string name="tgUppercase">Upper</string>
+    <string name="tgLowercase">Lower</string>
+    <string name="txVTitle">Customize</string>
+    <string name="txVSubtitle">your thoughts</string>
+    <string name="sampleText">...</string>
+    <string name="txVCredits">made with &lt;3\nLorena Sánchez</string>
+</resources>
