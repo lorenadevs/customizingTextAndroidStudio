@@ -1,16 +1,16 @@
-# App para trabajar con distintos componentes
+# Working with different components
  App designed to serve as a playground for exploring and testing various Android Studio components. The main focus is on experimenting with components such as toggle buttons, radio buttons, checkboxes, textviews, and groups.  
 
 <h3> Otros proyectos Android </h3>
 <ul>
   <li>
-    <a href="https://github.com/kxtxrinx/MenuAndroidStudio"> Distintos tipos de menús y diálogos </a>
+    <a href="https://github.com/kxtxrinx/MenuAndroidStudio">Multiple menu types and dialogues</a>
   </li>
   <li>
-    <a href="https://github.com/kxtxrinx/CalcMCM"> Navegación entre actividades y el traspaso de datos entre estas </a>
+    <a href="https://github.com/kxtxrinx/CalcMCM">Navigation between activities and data between them</a>
   </li>
    <li>
-   <a href="https://github.com/kxtxrinx/mejorAppT"> Análisis de la ansiedad de los estudiantes de cara a los exámenes </a>
+   <a href="https://github.com/kxtxrinx/mejorAppT">Multiple components; app designed to analyze students anxiety when facing exams</a>
   </li> 
 </ul>
  
