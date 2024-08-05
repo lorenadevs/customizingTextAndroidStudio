@@ -2,9 +2,17 @@
  App designed to serve as a playground for exploring and testing various Android Studio components. The main focus is on experimenting with components such as toggle buttons, radio buttons, checkboxes, textviews, and groups.  
 
 <h3> Otros proyectos Android </h3>
- (App para analizar la ansiedad de los estudiantes de cara a los exámenes) https://github.com/kxtxrinx/mejorAppT
- (App para trabajar con distintos tipos de menús y diálogos) https://github.com/kxtxrinx/MenuAndroidStudio
- (App para practicar la navegación entre actividades y el traspaso de datos entre estas) https://github.com/kxtxrinx/CalcMCM
+<ul>
+<li>
+ <a href="https://github.com/kxtxrinx/mejorAppT"> Análisis de la ansiedad de los estudiantes de cara a los exámenes </a>
+</li> 
+ <li>
+   <a href=" https://github.com/kxtxrinx/MenuAndroidStudio"> Distintos tipos de menús y diálogos </a>
+ </li>
+ <li>
+   <a href="https://github.com/kxtxrinx/CalcMCM"> Navegación entre actividades y el traspaso de datos entre estas </a>
+ </li>
+</ul>
  
 ![Captura de pantalla 2023-12-06 205137](https://github.com/kxtxrinx/customizingTextAndroidStudio/assets/78937711/fc8365db-5bfb-4c5f-9ed0-960435d3791f)  
 
