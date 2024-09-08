@@ -1,7 +1,7 @@
 # Working with different components
  App designed to serve as a playground for exploring and testing various Android Studio components. The main focus is on experimenting with components such as toggle buttons, radio buttons, checkboxes, textviews, and groups.  
 
-<h3> Otros proyectos Android </h3>
+<h3> More Android projects </h3>
 <ul>
   <li>
     <a href="https://github.com/kxtxrinx/MenuAndroidStudio">Multiple menu types and dialogues</a>
